@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Be Around",
+  "base_artist": "Blooom",
+  "createdAt": "2025-12-25T02:31:03.090764Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Look For Me (I'll Be Around)",
+      "artist": "Neko Case",
+      "has_synced": true,
+      "path": "select/01_Look_For_Me_(I'll_Be_Around)_Neko_Case.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "When It All Comes Down (I'll Still Be Around)",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/02_When_It_All_Comes_Down_(I'll_Still_Be_Around)_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'll Be Around",
+      "artist": "Chaka Khan",
+      "has_synced": true,
+      "path": "select/03_I'll_Be_Around_Chaka_Khan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Call Me (I'll Be Around Medley)",
+      "artist": "Bran Van 3000",
+      "has_synced": false,
+      "path": "select/04_Call_Me_(I'll_Be_Around_Medley)_Bran_Van_3000.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Wanna Be Around",
+      "artist": "Bobby Darin",
+      "has_synced": true,
+      "path": "select/05_I_Wanna_Be_Around_Bobby_Darin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'll Be Around",
+      "artist": "Billie Holiday",
+      "has_synced": true,
+      "path": "select/06_I'll_Be_Around_Billie_Holiday.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'm in Great Shape / I Wanna Be Around / Workshop",
+      "artist": "Brian Wilson",
+      "has_synced": true,
+      "path": "select/07_I'm_in_Great_Shape___I_Wanna_Be_Around___Workshop_Brian_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm In Great Shape\u0000I Wanna Be Around\u0000Workshop",
+      "artist": "Brian Wilson",
+      "has_synced": true,
+      "path": "select/08_I'm_In_Great_Shape\u0000I_Wanna_Be_Around\u0000Workshop_Brian_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I’ll Be Around",
+      "artist": "Empire of the Sun",
+      "has_synced": true,
+      "path": "select/09_I’ll_Be_Around_Empire_of_the_Sun.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'll Be Around",
+      "artist": "Frank Sinatra",
+      "has_synced": false,
+      "path": "select/10_I'll_Be_Around_Frank_Sinatra.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'll Be Around",
+      "artist": "Steve Vai",
+      "has_synced": true,
+      "path": "select/11_I'll_Be_Around_Steve_Vai.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Hope to Be Around",
+      "artist": "Men I Trust",
+      "has_synced": true,
+      "path": "select/12_I_Hope_to_Be_Around_Men_I_Trust.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Hope to Be Around (Live)",
+      "artist": "Men I Trust",
+      "has_synced": true,
+      "path": "select/13_I_Hope_to_Be_Around_(Live)_Men_I_Trust.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'll Be Around",
+      "artist": "Bobby Caldwell",
+      "has_synced": true,
+      "path": "select/14_I'll_Be_Around_Bobby_Caldwell.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'll Be Around (feat. Timbaland) - Club Mix",
+      "artist": "CeeLo Green feat. Timbaland",
+      "has_synced": false,
+      "path": "select/15_I'll_Be_Around_(feat._Timbaland)_-_Club_Mix_CeeLo_Green_feat._Timbaland.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Be Around",
+      "artist": "Blooom",
+      "has_synced": false,
+      "path": "select/pl_01_Be_Around_Blooom.txt"
+    }
+  ]
+}
